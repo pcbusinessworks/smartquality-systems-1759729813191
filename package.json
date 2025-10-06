@@ -1,0 +1,17 @@
+{
+  "name": "smartquality-systems",
+  "version": "1.0.0",
+  "description": "Website for SmartQuality Systems",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build process needed for static site'"
+  },
+  "keywords": [
+    "Healthcare Technology",
+    "website",
+    "business"
+  ],
+  "author": "SmartQuality Systems",
+  "license": "MIT"
+}
